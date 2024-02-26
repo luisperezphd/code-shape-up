@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-xxs {
+  font-size: 0.49rem;
+  line-height: 0.525rem;
+}
+
+body {
+  background-color: #ffc400;
+  color: #312f27;
+}

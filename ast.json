@@ -1,0 +1,15 @@
+tokens
+[
+  {
+    "type": "Punctuator",
+    "value": "("
+  },
+  {
+    "type": "Numeric",
+    "value": "3"
+  },
+  {
+    "type": "Punctuator",
+    "value": ")"
+  }
+]
